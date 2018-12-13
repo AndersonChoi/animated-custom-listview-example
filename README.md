@@ -2,21 +2,23 @@
 
 [![platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-![](https://img.shields.io/badge/license-MIT-blue.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Animted custom listview for android.
+Animted custom listview example for android.
 
-## Demo app
-
-[<img src="https://raw.githubusercontent.com/AndersonChoi/animated-custom-listview-example/master/image/video.gif" width="250" />]()
-
-## Usage
+## Provide animations
 
 animated-custom-listview-example provides three effects.
 
 * Alpha with translate animation
 * Alpha animation
 * Scale animation
+
+## Demo app
+
+[<img src="https://raw.githubusercontent.com/AndersonChoi/animated-custom-listview-example/master/image/video.gif" width="250" />]()
+
+## Usage
 
 ```java
 @Override
@@ -46,7 +48,7 @@ git clone https://github.com/AndersonChoi/animated-custom-listview-example.git
 
 ## Contribute & Report issue
 
-Did you encounter bugs? Pull request [here](https://github.com/AndersonChoi/animated-custom-listview-example/pulls) or Report them [here](https://github.com/AndersonChoi/animated-custom-listview-example/issues). The more relevant information you provide the easier and faster it can be resolved.
+Did you encounter bugs? Pull request [here](https://github.com/AndersonChoi/animated-custom-listview-example/pulls) or report them [here](https://github.com/AndersonChoi/animated-custom-listview-example/issues). The more relevant information you provide the easier and faster it can be resolved.
 
 ## License 
 
